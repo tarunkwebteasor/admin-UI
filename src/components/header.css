@@ -1,0 +1,15 @@
+.iconbox {
+    border: 1px solid white;
+    padding: 2px 6px;
+    color: white;
+    margin-right: 10px;
+    margin-left: 10px;
+    width: 29px;
+}
+.dropdown-menu.show {
+    display: block;
+    left: -32px !important;
+}
+.nav-link {
+    color: #fff !important
+}
